@@ -1,0 +1,140 @@
+html{	
+	width: 875px;
+	height: 584px;
+	background-image:url("Images/wallpaper-color.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin-top: 163px;
+	margin-left: 10px;
+	border-style: solid;
+	border-radius: 10px;
+}
+
+a {
+	
+	text-align: right;
+	font-family:"Calibri Light";
+	font-size: 14px;
+	font-style: oblique;
+	color: black;
+}
+
+nav {
+	border: solid;
+	padding: 5px;
+	border-radius: 8px;
+	border-width: 2px;
+	border-color: bisque;
+	display: block;
+}
+
+#space {
+	padding-left: 590px;
+}
+
+body{
+	font-family:"Calibri Light";
+	display: inline-block;
+	margin-left: 10px;
+	padding-left: 10px;
+
+}
+
+h3 {
+	padding: 2px;
+	font-style: italic;
+}
+
+p {
+	color: black;
+	font-style: bold;
+	padding: 10px;
+	font-size: 14px;
+}
+input {
+	padding: 18px;
+	height: 80px;
+	width: 150px;
+	margin: 10px;
+	background-color: bisque;
+	border-radius: 10px;
+}
+
+#envoyer {
+	padding: 5px;
+	height: 40px;
+	width: 80px;
+	margin: 10px;
+	margin-left: 630px;
+	background-color: bisque;
+}
+
+#songs{
+	text-align: center;
+}
+
+footer {
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: center;
+	font-size: 12px;
+	border-top: solid;
+	border-color: bisque;
+	border-width: 1.5px;
+	position: fixed;
+	bottom: 250px;
+	margin-left: 250px;
+}
+
+#comment {
+	width: 400px;
+	text-align: center;
+	margin-left: 10px;
+	height: 60px;
+}
+
+#send {
+	padding: 3px;
+	width: 70px;
+	height: 30px;
+	text-align: center;
+	margin-left: 380px;
+}
+
+#mail{
+	margin-left: 470px;
+	display: block;
+	vertical-align: 150px;
+	position:  fixed;
+	top: 380px;
+	height: 20px;
+	width: 330px;
+}
+
+#send2 {
+	padding: 3px;
+	width: 330px;
+	height: 40px;
+	margin-left: 30px;
+	position: fixed;
+	top: 445px;
+}
+
+#subscribe {
+	text-align: center;
+}
+
+video {
+	position: fixed;
+	top: 400px;
+}
+
+#text{
+	position: fixed;
+	top: 370px;
+	left: 380px;
+	border-style: dotted;
+	border-color: black;
+	border-width: 2px;
+	padding: 5px;
+}

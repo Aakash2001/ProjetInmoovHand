@@ -1,0 +1,9 @@
+Rendu : 
+
+	NOM1_NOM2_PROJET.zip
+
+	- Journal de Bord
+	- Front
+	- Back
+	- Système
+	- Source
